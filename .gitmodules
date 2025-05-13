@@ -1,0 +1,7 @@
+[submodule "services/django_service"]
+	path = services/django_service
+	url = https://github.com/nimuS2927/petDjango.git
+
+[submodule "services/fastapi_service"]
+	path = services/fastapi_service
+	url = https://github.com/nimuS2927/petFastAPI.git
